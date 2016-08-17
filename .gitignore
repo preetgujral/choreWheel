@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+#npm debug log files
+npm-debug.log
+
+#System Files
+.DS*
+
+#local environmental variable files used for sensitive information
+.env

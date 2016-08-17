@@ -1,0 +1,14 @@
+{
+  "name": "chore-wheel",
+  "version": "0.0.1",
+  "description": "app to manage household chores between roommates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "preetGujral",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
